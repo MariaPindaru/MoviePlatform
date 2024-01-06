@@ -1,0 +1,3 @@
+[submodule "DissertationBackend"]
+	path = DissertationBackend
+	url = https://github.com/MariaPindaru/DissertationBackend.git
