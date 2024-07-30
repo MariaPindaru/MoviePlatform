@@ -63,8 +63,8 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/movie-rating-platform.git
-    cd movie-rating-platform
+    git clone https://github.com/your-username/MoviePlatform.git
+    cd MoviePlatform
     ```
 
 2. **Backend Setup**:
