@@ -26,9 +26,10 @@ This platform provides users with personalized movie recommendations, an interac
 
 ### Movie Recommender
 
-- **Neural Network (Behavior Sequence Transformer)**: Utilizes a transformer-based neural network to recommend movies based on user behavior sequences.
+- **Neural Network (Behavior Sequence Transformer)**: Utilizes a transformer-based neural network to recommend movies based on user behavior sequences. (Q. Chen, Z. Huan , L. Wei, H. Pipei și O. Wenwu , „Behavior sequence transformer for 
+e-commerce recommendation in Alibaba”, 2019)
 - **Hybrid Recommender**: Combines content-based filtering and collaborative filtering to enhance recommendation accuracy.
-
+![image](https://github.com/user-attachments/assets/a58ee03e-c32c-4bac-87b3-5641295412a2)
 ### Chatbot Recommender
 
 - **Classifier (LSTM)**: Uses a Long Short-Term Memory (LSTM) network to classify user inputs and provide movie recommendations.
@@ -37,11 +38,12 @@ This platform provides users with personalized movie recommendations, an interac
   - Genre-specific recommendations
   - Director-specific recommendations
   - Similarity with another movie
+![image](https://github.com/user-attachments/assets/9f98200d-7cd3-4f8a-a960-c1c22223396d)
 
 ### Movie Search
 
 - **Description-Based Search**: Implements TF-IDF encoding combined with a Nearest Neighbor algorithm to allow users to search for movies based on descriptions.
-
+![image](https://github.com/user-attachments/assets/268f2aca-a1ea-4668-bebf-778ca52afeb9)
 ## Technologies
 
 ### Backend
