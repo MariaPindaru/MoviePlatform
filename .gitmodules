@@ -1,6 +1,6 @@
 [submodule "Backend"]
-	path = DissertationBackend
-	url = https://github.com/MariaPindaru/DissertationBackend.git
+	path = Backend
+	url = https://github.com/MariaPindaru/MoviePlatformBackend.git
 [submodule "Frontend"]
-	path = DissertationFrontend
-	url = https://github.com/MariaPindaru/DissertationFrontend.git
+	path = Frontend
+	url = https://github.com/MariaPindaru/MoviePlatformFrontend.git
