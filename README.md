@@ -37,6 +37,8 @@ e-commerce recommendation in Alibaba”, 2019)
   - Genre-specific recommendations
   - Director-specific recommendations
   - Similarity with another movie
+
+
 ![image](https://github.com/user-attachments/assets/ade557d3-4591-4825-b802-1295a901ffc4)
 
 ### Movie Search
