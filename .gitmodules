@@ -1,6 +1,6 @@
-[submodule "DissertationBackend"]
+[submodule "Backend"]
 	path = DissertationBackend
 	url = https://github.com/MariaPindaru/DissertationBackend.git
-[submodule "DissertationFrontend"]
+[submodule "Frontend"]
 	path = DissertationFrontend
 	url = https://github.com/MariaPindaru/DissertationFrontend.git
